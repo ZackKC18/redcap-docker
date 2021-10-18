@@ -6,7 +6,7 @@
 // If not using the default port 3306, then append a colon and port number to the hostname (e.g. $hostname = 'example.com:3307';).
 
 $hostname 	= 'redcap-db';
-$db 		= 'your_mysql_db_name';
+$db 		= 'redcap';
 $username 	= 'admin';
 $password 	= 'password';
 
