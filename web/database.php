@@ -7,8 +7,8 @@
 
 $hostname 	= 'your_mysql_host_name';
 $db 		= 'your_mysql_db_name';
-$username 	= 'your_mysql_db_username';
-$password 	= 'your_mysql_db_password';
+$username 	= 'admin';
+$password 	= 'password';
 
 // For greater security, you may instead want to place the database connection values in a separate file that is not 
 // accessible via the web. To do this, uncomment the line below and set it as the path to your database connection file
