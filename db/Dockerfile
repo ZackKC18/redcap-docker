@@ -17,8 +17,7 @@
 # Database Container: MySQL
 #------------------------------------------------------------------------------
 
-FROM mysql:8.0
-
+FROM zack1811/mysql
 MAINTAINER Amos Folarin <amosfolarin@gmail.com>
 
 
